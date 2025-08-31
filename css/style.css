@@ -11,20 +11,24 @@ h1 {
   font-weight: 700;
   background-image: url("../IMAGE/fondo.jpg");
 }
+
 h2 {
   background-color: #c4c4c4;
   color: #005677;
   font-size: 20px;
   font-family: "Times New Roman", Times, serif;
 }
+
 span {
   font-family: "Times New Roman", Times, serif;
   font-weight: bold;
 }
+
 li {
   list-style: none;
   font-family: "Times New Roman", Times, serif;
 }
+
 .puntos {
   list-style: disc;
   font-family: "Times New Roman", Times, serif;
